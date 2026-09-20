@@ -29,10 +29,17 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
+      - name: Build deployable site
+        run: |
+          rm -rf dist
+          mkdir -p dist
+          cp index.html style.css scene.js scene-v1.glb .nojekyll dist/
+          cp -R www.dr-erdogan.de dist/www.dr-erdogan.de
+
       - name: Upload site
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: ./dist
 
       - name: Deploy to GitHub Pages
         id: deployment
