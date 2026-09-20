@@ -1,0 +1,24 @@
+HTTrack3.50-3 launched on Sun, 20 Sep 2026 10:30:00 at http://www.dr-erdogan.de/index.html
+(httrack http://www.dr-erdogan.de/index.html -O ./dr-erdogan-copy )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:31:43	Error: 	"Not Found" (404) at link www.dr-erdogan.de/styles/images/pfeil.gif (from www.dr-erdogan.de/styles/styles.css)
+10:31:43	Error: 	"Not Found" (404) at link www.dr-erdogan.de/images/mail-button.png (from www.dr-erdogan.de/styles/styles.css)
+10:31:43	Error: 	"Not Found" (404) at link www.dr-erdogan.de/images/bg-sequence.jpg (from www.dr-erdogan.de/styles/sequence-theme.modern-slide-in.css)
+10:31:43	Error: 	"Not Found" (404) at link www.dr-erdogan.de/images/bt-next.png (from www.dr-erdogan.de/styles/sequence-theme.modern-slide-in.css)
+10:31:43	Error: 	"Not Found" (404) at link www.dr-erdogan.de/images/bt-prev.png (from www.dr-erdogan.de/styles/sequence-theme.modern-slide-in.css)
+10:31:43	Error: 	"Not Found" (404) at link www.dr-erdogan.de/images/bt-next@2x.png (from www.dr-erdogan.de/styles/sequence-theme.modern-slide-in.css)
+10:31:43	Error: 	"Not Found" (404) at link www.dr-erdogan.de/images/bt-prev@2x.png (from www.dr-erdogan.de/styles/sequence-theme.modern-slide-in.css)
+10:31:43	Error: 	"Not Found" (404) at link www.dr-erdogan.de/img/loading.gif (from www.dr-erdogan.de/styles/lightbox.css)
+10:31:43	Error: 	"Not Found" (404) at link www.dr-erdogan.de/img/prev.png (from www.dr-erdogan.de/styles/lightbox.css)
+10:31:43	Error: 	"Not Found" (404) at link www.dr-erdogan.de/img/next.png (from www.dr-erdogan.de/styles/lightbox.css)
+10:32:38	Error: 	"Not Found" (404) at link www.dr-erdogan.de/Impressium.html (from www.dr-erdogan.de/Zahnaufhellung.html)
+10:32:38	Error: 	"Not Found" (404) at link www.dr-erdogan.de/IMPRESSUM.html (from www.dr-erdogan.de/Aestetic.html)
+10:32:38	Error: 	"Not Found" (404) at link www.dr-erdogan.de/DATENSCHUTZ.html (from www.dr-erdogan.de/Aestetic.html)
+
+HTTrack Website Copier/3.50-3 mirror complete in 2 minutes 38 seconds : 43 links scanned, 29 files written (15574582 bytes overall) [15451325 bytes received at 97793 bytes/sec], 210182 bytes transferred using HTTP compression in 33 files, ratio 34%, 7.1 requests per connection
+(13 errors, 0 warnings, 0 messages)
